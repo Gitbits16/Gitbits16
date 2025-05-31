@@ -37,11 +37,11 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/https://www.instagram.com/imnandinisoni?igsh=MWN4cHJnMngzNGl0dw==" target="_blank">
-    <img src="https://i.imgur.com/zCk2f4e.png" alt="Buy me a burger" width="140" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" alt="Buy me a burger" width="100" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto: micronandini88@gmail.com" target="_blank">
-    <img src="https://i.imgur.com/fZEd2Wx.png" alt="Teach me or Hire me" width="140" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Teach me or Hire me" width="100" />
   </a>
 </p>
 
