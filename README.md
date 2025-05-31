@@ -35,12 +35,8 @@
 
 ### ☕ Support me:
 
-<p align="center">
  <p align="center">
-  <a href="YOUR_BUY_ME_A_COFFEE_URL" target="_blank" style="display:inline-block; background-color:#FFDD00; color:#000; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: 600; font-family: sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <img src="https://www.buymeacoffee.com/assets/img/BMC-icon.svg" alt="Buy Me a Coffee" style="height:20px; width:20px; vertical-align:middle; margin-right: 8px;">
-    Buy me a coffee
-  </a>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 </p>
   &nbsp;&nbsp;
   <a href="mailto: micronandini88@gmail.com" target="_blank">
