@@ -36,8 +36,13 @@
 ### ☕ Support me:
 
 <p>
-  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-red?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/https://www.instagram.com/imnandinisoni?igsh=MWN4cHJnMngzNGl0dw==" target="_blank">
+    <img src="https://img.shields.io/badge/-Buy%20me%20a%20burger-FF7F50?style=for-the-badge&logo=burgerking&logoColor=white" alt="buy me a burger"/>
+  </a>
+  
+  <a href="mailto: micronandini88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Teach%20me%20%2F%20Hire%20me-6A5ACD?style=for-the-badge&logo=minutemailer&logoColor=white" alt="teach or hire me"/>
+  </a>
 </p>
 
 ---
