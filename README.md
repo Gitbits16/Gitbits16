@@ -36,9 +36,12 @@
 ### ☕ Support me:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/https://www.instagram.com/imnandinisoni?igsh=MWN4cHJnMngzNGl0dw==" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" alt="Buy me a burger" width="100" />
+ <p align="center">
+  <a href="YOUR_BUY_ME_A_COFFEE_URL" target="_blank" style="display:inline-block; background-color:#FFDD00; color:#000; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: 600; font-family: sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+    <img src="https://www.buymeacoffee.com/assets/img/BMC-icon.svg" alt="Buy Me a Coffee" style="height:20px; width:20px; vertical-align:middle; margin-right: 8px;">
+    Buy me a coffee
   </a>
+</p>
   &nbsp;&nbsp;
   <a href="mailto: micronandini88@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Teach me or Hire me" width="100" />
