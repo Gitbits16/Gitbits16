@@ -33,18 +33,6 @@
 
 ---
 
-### ☕ Support me:
-
- <p align="center">
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-</p>
-  &nbsp;&nbsp;
-  <a href="mailto: micronandini88@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Teach me or Hire me" width="100" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
