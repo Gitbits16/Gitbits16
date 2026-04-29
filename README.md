@@ -29,7 +29,8 @@
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> c++
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> github
+    img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/15a1692f-08fe-4353-b65b-b70c2f4708df"/>
+    github
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> python
