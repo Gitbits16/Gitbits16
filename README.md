@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> python
 
 
- <img src="file:///C:/Users/HP/Downloads/postgresql-logo-svgrepo-com.svg" alt="postgresql" width="40" height="40"/> python
+ <img src="<a href="https://iconscout.com/icons/postgresql" alt="postgresql" width="40" height="40"/> postgresql
 
  
   ### exposure with python and ML concepts and frameworks for statistical analysis like (matplotlib, numpy, pandas, seaborn)
