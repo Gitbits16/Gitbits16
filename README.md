@@ -34,7 +34,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> python
 
-  ### exposure with python and its scientific libraries and frameworks for statistical analysis like (matplotlib, numpy, pandas, seaborn)
+  ### exposure with python and ML concepts and frameworks for statistical analysis like (matplotlib, numpy, pandas, seaborn)
 </p>
 
 ---
