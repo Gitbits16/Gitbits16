@@ -49,8 +49,7 @@
     </td>
   </tr>
 </table>
- 
-  ### exposure with python and ML concepts and frameworks for statistical analysis like (matplotlib, numpy, pandas, seaborn)
+  exposure with python and ML concepts and frameworks for statistical analysis like (matplotlib, numpy, pandas, seaborn)
 </p>
 
 ---
