@@ -21,8 +21,34 @@
 ### 💻 Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" alt="cplusplus" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgreSQL/postgresql-original.svg" alt="postgresql" width="40" height="40"/> postgreSQL
-
+ <table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>
+      HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
+      C++
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="40"/><br>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>
+      PostgreSQL
+    </td>
+  </tr>
+</table>
  
   ### exposure with python and ML concepts and frameworks for statistical analysis like (matplotlib, numpy, pandas, seaborn)
 </p>
